@@ -1,0 +1,103 @@
+{
+    "projects": [
+      {
+        "title": "Portfolio",
+        "description": "These is a complete demonstration of my profile using react and framer motion for animation where i have tried to reflect my projects as well as my MERN development skills. I have putted the projects with live links. my experience and the services i provide are being shown there. The website is fully responsive.",
+        "url": "https://sandeeppatidarportfolio.netlify.app",
+        "imgSrc": "./images/portfolio.jpeg"
+      },
+  
+      {
+        "title": "Marvel_Verse",
+        "description": "These is the landing page for marvel movies hub. where the movies are fetched from an self made api using props and states. These is again a fully responsive website.",
+        "url": "https://marvelversereact.netlify.app/z",
+        "imgSrc": "./images/marvel_verse.jpeg"
+      },
+      {
+        "title": "Calculator Using Reactjs",
+        "description": "These webpage is a calculator which use eval function to do calculations. I have used useState hook for getting and setting result and the input string all cases are handled so well. You can write a long mathematical numerical expression and with a single click on '=' it gets evaluated All errors are taken care of ",
+        "url": "https://calculatorreactwebapp.netlify.app/",
+        "imgSrc": "./images/calculator.jpeg"
+      },
+  
+      {
+        "title": "Coffee shop",
+        "description": "This is just a simple frontend website which is a landing page of a coffee shop website made using HTML, CSS, JS",
+        "url": "https://sandyhere007.github.io/coffeeshop.github.io/",
+        "imgSrc": "./images/coffee_shop.jpeg"
+      },
+      {
+        "title": "MotorBike Shop ",
+        "description": "This is just a simple frontend website which is a landing page of a Motorcycle shop with a Login and Signup form integrated in it website made using HTML, CSS, JS",
+        "url": "https://sandyhere007.github.io/motoera.github.io/",
+        "imgSrc": "./images/motoera_website.jpeg"
+      }
+    ],
+    "experience" :[
+      {
+        "title": "Internship at Gonerd",
+        "date" :"05 December 2021 - 01 April 2022 "
+      },
+      {
+        "title": "Internship at Technohacks",
+        "date" :"01 july 2023 - 01 August 2023 "
+      },
+      {
+        "title": "President of Industry Academia Club",
+        "date" :"16 october 2021 - Present "
+      }
+    ],
+    "skills" :[
+    {
+      "img" : "./icons/dsa.png",
+      "name" : "DSA"
+    },
+    {
+      "img" : "./icons/java-script.png",
+      "name" : "Javascript"
+    },
+    {
+      "img" : "./icons/react.png",
+      "name" : "Reactjs"
+    },
+    {
+      "img" : "./icons/nodejs.png",
+      "name" : "Nodejs"
+    },
+        {
+      "img" : "./icons/mongo-db.png",
+      "name" : "MongoDb"
+    },
+
+    {
+      "img" : "./icons/c++.png",
+      "name" : "C++"
+    },
+    {
+      "img" : "./icons/python.png",
+      "name" : "Python"
+    },
+    {
+      "img" : "./icons/php.png",
+      "name" : "PHP"
+    },
+    {
+      "img" : "./icons/mysql.png",
+      "name" : "MySQL"
+    },
+    {
+      "img" : "./icons/github.png",
+      "name" : "Git & Github"
+    },
+    
+    {
+      "img" : "./icons/html.png",
+      "name" : "HTML"
+    },
+    {
+      "img" : "./icons/css.png",
+      "name" : "CSS"
+    }
+
+  ]
+  }
